@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/marcin-wosinek/esbuild-lazy-load/issues"
   },
-  "homepage": "https://github.com/marcin-wosinek/esbuild-lazy-load#readme"
+  "homepage": "https://github.com/marcin-wosinek/esbuild-lazy-load#readme",
+  "devDependencies": {
+    "esbuild": "^0.12.15"
+  }
 }
