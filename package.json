@@ -20,5 +20,8 @@
   "homepage": "https://github.com/marcin-wosinek/esbuild-lazy-load#readme",
   "devDependencies": {
     "esbuild": "^0.12.15"
+  },
+  "dependencies": {
+    "pdf-lib": "^1.16.0"
   }
 }
